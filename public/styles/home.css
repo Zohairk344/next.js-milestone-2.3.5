@@ -1,0 +1,53 @@
+#start2{
+    --tw-bg-opacity: 1;
+    background-color: rgb(0 0 0 / var(--tw-bg-opacity)) /* #000000 */;
+    height: 80vh;
+}
+
+#main2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#resume{
+    height: 560px;
+    width: 900px;
+    background-image: url('/images/Resume.jpg');
+    border-radius: 0.75rem /* 12px */;
+    margin-top: 2.5rem /* 40px */;
+    margin-bottom: 2.5rem /* 40px */;
+}
+
+#img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem /* 80px */;
+    margin-left: 24rem /* 384px */;
+    margin-bottom: 5rem /* 80px */;
+}
+
+#name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem /* 48px */;
+    line-height: 1;
+    font-weight: 600;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity)) /* #ffffff */;
+}
+
+#description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2.5rem /* 40px */;
+    font-size: 1.5rem /* 24px */;
+    line-height: 2rem /* 32px */;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity)) /* #ffffff */;
+}
+

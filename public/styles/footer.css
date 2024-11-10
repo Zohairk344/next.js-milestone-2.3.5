@@ -1,0 +1,16 @@
+#footer{
+    --tw-bg-opacity: 1;
+    background-color: rgb(71 85 105 / var(--tw-bg-opacity)) /* #475569 */;
+    padding: 2.25rem /* 36px */;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity)) /* #ffffff */;
+}
+
+#copyright{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.125rem /* 18px */;
+    line-height: 1.75rem /* 28px */;
+}

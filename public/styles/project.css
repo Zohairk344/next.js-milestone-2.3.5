@@ -1,0 +1,160 @@
+#start3{
+    --tw-bg-opacity: 1;
+    background-color: rgb(0 0 0 / var(--tw-bg-opacity)) /* #000000 */;
+    height: 95vh;
+}
+
+#main3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2.5rem /* 40px */;
+}
+
+#projectbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity)) /* #ffffff */;
+    --tw-text-opacity: 1;
+    color: rgb(0 0 0 / var(--tw-text-opacity)) /* #000000 */;
+    height: 500px;
+    width: 900px;
+    border-radius: 0.75rem /* 12px */;
+}
+
+#projecthead{
+    font-size: 1.5rem /* 24px */;
+    line-height: 2rem /* 32px */;
+    font-weight: 600;
+    margin-top: 2.5rem /* 40px */;
+    margin-bottom: 3.5rem /* 56px */;
+}
+
+#gitproject{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem /* 24px */;
+    line-height: 2rem /* 32px */;
+    font-weight: 600;
+}
+
+#gitdesc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem /* 24px */;
+    font-size: 1.125rem /* 18px */;
+    line-height: 1.75rem /* 28px */;
+    margin-bottom: 2rem /* 32px */;
+}
+
+#gitlink1{
+    margin-left: 0.5rem /* 8px */;
+    margin-right: 0.5rem /* 8px */;
+    font-weight: 600;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity)) /* #ffffff */;
+    --tw-bg-opacity: 1;
+    background-color: rgb(16 185 129 / var(--tw-bg-opacity)) /* #10b981 */;
+    border-radius: var(--radius);
+    padding: 0.75rem /* 12px */;
+}
+
+#gitlink2{
+    margin-left: 0.5rem /* 8px */;
+    margin-right: 0.5rem /* 8px */;
+    font-weight: 600;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity)) /* #ffffff */;
+    --tw-bg-opacity: 1;
+    background-color: rgb(16 185 129 / var(--tw-bg-opacity)) /* #10b981 */;
+    border-radius: var(--radius);
+    padding: 0.75rem /* 12px */;
+}
+
+#gitlink3{
+    margin-left: 0.5rem /* 8px */;
+    margin-right: 0.5rem /* 8px */;
+    font-weight: 600;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity)) /* #ffffff */;
+    --tw-bg-opacity: 1;
+    background-color: rgb(16 185 129 / var(--tw-bg-opacity)) /* #10b981 */;
+    border-radius: var(--radius);
+    padding: 0.75rem /* 12px */;
+}
+
+#vercelproj{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem /* 24px */;
+    line-height: 2rem /* 32px */;
+    font-weight: 600;
+    margin-top: 2.5rem /* 40px */;
+    margin-bottom: 2.25rem /* 36px */;
+}
+
+#vercelink1{
+    margin-left: 1.25rem /* 20px */;
+    margin-right: 1.25rem /* 20px */;
+    margin-left: 9rem /* 144px */;
+    font-weight: 600;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity)) /* #ffffff */;
+    --tw-bg-opacity: 1;
+    background-color: rgb(16 185 129 / var(--tw-bg-opacity)) /* #10b981 */;
+    border-radius: var(--radius);
+    padding: 0.75rem /* 12px */;
+}
+
+#vercelink2{
+    margin-left: 1.25rem /* 20px */;
+    margin-right: 1.25rem /* 20px */;
+    font-weight: 600;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity)) /* #ffffff */;
+    --tw-bg-opacity: 1;
+    background-color: rgb(16 185 129 / var(--tw-bg-opacity)) /* #10b981 */;
+    border-radius: var(--radius);
+    padding: 0.75rem /* 12px */;
+}
+
+#skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2.25rem /* 36px */;
+}
+
+#skillscard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity)) /* #ffffff */;
+    --tw-text-opacity: 1;
+    color: rgb(0 0 0 / var(--tw-text-opacity)) /* #000000 */;
+    height: 250px;
+    width:900px;
+    border-radius: 0.75rem /* 12px */;
+}
+
+#skillslist{
+    margin: 2.5rem /* 40px */;
+    font-size: 1.125rem /* 18px */;
+    line-height: 1.75rem /* 28px */;
+}
+
+li{
+    margin-top: 1rem /* 16px */;
+}

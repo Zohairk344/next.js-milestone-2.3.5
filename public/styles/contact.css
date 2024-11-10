@@ -1,0 +1,48 @@
+#start4{
+    --tw-bg-opacity: 1;
+    background-color: rgb(0 0 0 / var(--tw-bg-opacity)) /* #000000 */;
+    height: 80vh;
+}
+
+#main4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#contactbox{
+    display: flex;
+    flex-direction: column;
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity)) /* #ffffff */;
+    --tw-text-opacity: 1;
+    color: rgb(0 0 0 / var(--tw-text-opacity)) /* #000000 */;
+    height: 250px;
+    width: 900px;
+    border-radius: 0.75rem /* 12px */;
+    margin-top: 2.5rem /* 40px */;
+}
+
+#heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1.75rem /* 28px */;
+    font-size: 1.875rem /* 30px */;
+    line-height: 2.25rem /* 36px */;
+    font-weight: 600;
+}
+
+#email{
+    margin-top: 1.5rem /* 24px */;
+    font-size: 1.125rem /* 18px */;
+    line-height: 1.75rem /* 28px */;
+    margin: 1.25rem /* 20px */;
+}
+
+#phone{
+    font-size: 1.125rem /* 18px */;
+    line-height: 1.75rem /* 28px */;
+    margin-left: 1.25rem /* 20px */;
+}
